@@ -1,2 +1,3 @@
 # my-repo
 THIS IS MY FIRST REPOSITORY
+Author - Shwet 
